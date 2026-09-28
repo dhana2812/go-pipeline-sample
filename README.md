@@ -1,4 +1,4 @@
-# Go Sample Pipelines in Harness Exam
+# Go Sample Pipelines in Harness
 
 Introduction
 ========================
